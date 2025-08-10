@@ -40,13 +40,13 @@ function Hero() {
                     <h1 className='text-xl sm:text-2xl md:text-3xl lg:text-4xl mb-3'>Heading</h1>
                     <p className='text-xs lg:text-base'>Content Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, quidem? Nulla nostrum pariatur culpa, ipsa iusto architecto aspernatur aperiam aliquam? Sunt repudiandae exercitationem cupiditate quis corporis totam rem reiciendis voluptates.</p>
                 </div>
-                <div className='bg-white h-[200px] md:h-[250px] '>
+                <div className='bg-white h-[200px] md:h-[250px]'>
                     {/* image */} Image
                 </div>
             </div>
 
             <div className='flex flex-col lg:flex-row gap-7 mb-10 min-w-0'>
-                <div className='bg-white hidden lg:block h-[200px] md:h-[250px] '>
+                <div className='bg-white hidden lg:block h-[200px] md:h-[250px]'>
                     {/* image */} Image
                 </div>
                 <div className=''>
